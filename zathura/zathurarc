@@ -1,0 +1,17 @@
+set selection-clipboard clipboard
+map й quit
+map о scroll down
+map л scroll up
+map р scroll left
+map д scroll right
+map d scroll half-down
+map в scroll half-down
+map u scroll half-up
+map г scroll half-up
+map Space scroll full-down
+map <S-Space> scroll full-up
+map , zoom in
+map б zoom in
+map v zoom out
+map м zoom out
+map <C-d> toggle_page_mode toggle
