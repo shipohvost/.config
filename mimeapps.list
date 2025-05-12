@@ -1,0 +1,9 @@
+[Added Associations]
+image/png=vimiv.desktop;imv.desktop;
+image/jpeg=vimiv.desktop;imv.desktop;
+application/x-designer=qt6-designer.desktop;
+
+[Default Applications]
+image/png=vimiv.desktop
+image/jpeg=imv.desktop
+application/x-designer=qt6-designer.desktop

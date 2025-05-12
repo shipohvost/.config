@@ -1,0 +1,6 @@
+include ./autostart.conf
+include ./windows.conf
+include ./variables.conf
+include ./io.conf
+include ./keybindigs.conf
+include '$("/usr/libexec/sway/layered-include" "/usr/share/sway/config.d/*.conf" "/etc/sway/config.d/*.conf" "${XDG_CONFIG_HOME:-$HOME/.config}/sway/config.d/*.conf")'
